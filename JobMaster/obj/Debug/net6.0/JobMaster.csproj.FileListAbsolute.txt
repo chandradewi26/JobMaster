@@ -1,0 +1,15 @@
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\bin\Debug\net6.0\JobMaster.exe
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\bin\Debug\net6.0\JobMaster.deps.json
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\bin\Debug\net6.0\JobMaster.runtimeconfig.json
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\bin\Debug\net6.0\JobMaster.dll
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\bin\Debug\net6.0\JobMaster.pdb
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.csproj.AssemblyReference.cache
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.AssemblyInfoInputs.cache
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.AssemblyInfo.cs
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.csproj.CoreCompileInputs.cache
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.dll
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\refint\JobMaster.dll
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.pdb
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\JobMaster.genruntimeconfig.cache
+C:\Users\NanaMocchy\Chandradewi2691\Scheduling Program\JobMaster\JobMaster\obj\Debug\net6.0\ref\JobMaster.dll
